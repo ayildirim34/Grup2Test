@@ -7,5 +7,7 @@ public class Grup2Test {
         System.out.println("2. Adim");
         System.out.println("3.adim");
         System.out.println( "4. adım.Zeynep");
+        System.out.println( "Deneme");
     }
 }
+
