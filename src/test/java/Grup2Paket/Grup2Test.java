@@ -6,5 +6,7 @@ public class Grup2Test {
         System.out.println("basladik bakalim");
         System.out.println("2. Adim");
         System.out.println("3.adim");
+        System.out.println("kara");
+
     }
 }
