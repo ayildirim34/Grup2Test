@@ -11,6 +11,7 @@ public class Grup2Test {
         System.out.println( "My branch");
         System.out.println("1-2-3-"
         );
+        System.out.println( "345678");
 
     }
 }
